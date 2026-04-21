@@ -1,0 +1,17 @@
+{
+  "name": "鉴真仓",
+  "short_name": "鉴真仓",
+  "description": "二手正品球鞋，鉴真入仓，只卖真鞋",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7ed",
+  "theme_color": "#166534",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
