@@ -34,7 +34,7 @@ onMounted(async () => {
           <a href="#products" class="rounded-2xl bg-green-700 px-6 py-3 font-bold text-white shadow-lg shadow-green-200">
             立即买鞋
           </a>
-          <a href="#contact" class="rounded-2xl border border-stone-300 bg-[#fffdf6] px-6 py-3 font-bold text-stone-900">
+          <a href="/contact" class="rounded-2xl border border-stone-300 bg-[#fffdf6] px-6 py-3 font-bold text-stone-900">
             我要卖鞋
           </a>
         </div>

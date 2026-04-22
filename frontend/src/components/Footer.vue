@@ -1,4 +1,5 @@
 <script setup>
+import { RouterLink } from 'vue-router'
 </script>
 
 <template>
@@ -7,7 +8,7 @@
       <a href="#" class="hover:text-green-700">关于我们</a>
       <a href="#" class="hover:text-green-700">用户协议</a>
       <a href="#" class="hover:text-green-700">隐私政策</a>
-      <a href="#" class="hover:text-green-700">联系我们</a>
+      <RouterLink to="/contact" class="hover:text-green-700">联系我们</RouterLink>
     </div>
     <div class="mx-auto mt-6 max-w-6xl text-center text-xs text-stone-400">
       © 2026 鉴真仓 · 二手正品鞋 · 鉴真入仓，只卖真鞋
